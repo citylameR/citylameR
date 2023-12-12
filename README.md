@@ -12,7 +12,7 @@
 </h1>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻About Me :
 I am a Backend Developer <img src=https://cdn3.emoji.gg/emojis/5742-khinkali.png width="15" height=15> 
 - 🔭 I’m currently working on computer vision
 - 👯 I’m looking to collaborate on [FastApi](https://github.com/tiangolo/fastapi)
@@ -20,7 +20,7 @@ I am a Backend Developer <img src=https://cdn3.emoji.gg/emojis/5742-khinkali.png
 - 😄 Pronouns: he/him
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@ I am a Backend Developer <img src=https://cdn3.emoji.gg/emojis/5742-khinkali.png
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citylameR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=citylameR&theme=dark)](https://git.io/streak-stats)
 
